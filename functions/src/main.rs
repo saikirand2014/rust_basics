@@ -17,3 +17,7 @@ fn second_fun(num:i32){
 fn third_fun(age:i32, name: String){
     println!("My name is {} and my age {}", name, age);
 }
+
+fn third_fun(age:i32, name: String){
+    println!("My name is {} and my age {}", name, age);
+}
